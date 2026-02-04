@@ -8,6 +8,7 @@ public class NamNandiniApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(NamNandiniApplication.class, args);
+		System.out.println("Ambi");
 	}
 
 }
